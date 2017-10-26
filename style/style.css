@@ -2,10 +2,20 @@
     position: relative;
 }
 
-#box2,
-#box1 {
+.box {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     background: #3399FF
+}
+
+
+#box1 {
+    top:10px;
+}
+#box2 {
+    top:110px;
+}
+#box3 {
+    top:210px;
 }
