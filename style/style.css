@@ -9,13 +9,12 @@
     background: #3399FF
 }
 
-
-#box1 {
+#clickstatus {
     top:10px;
 }
-/* #box2 {
-    top:110px;
+#movestatus {
+    top:50px;
 }
-#box3 {
-    top:210px;
-} */
+#box1 {
+    top:100px;
+}
