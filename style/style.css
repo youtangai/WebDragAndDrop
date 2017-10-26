@@ -2,10 +2,19 @@
     position: relative;
 }
 
-#box2,
-#box1 {
+.box {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     background: #3399FF
+}
+
+#clickstatus {
+    top:10px;
+}
+#movestatus {
+    top:50px;
+}
+#box1 {
+    top:100px;
 }
