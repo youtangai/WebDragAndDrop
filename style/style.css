@@ -1,0 +1,11 @@
+#wrap {
+    position: relative;
+}
+
+#box2,
+#box1 {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: #3399FF
+}
